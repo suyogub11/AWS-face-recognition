@@ -17,7 +17,7 @@ Easily enhance your applications with image and video analysis using Amazon Reko
 Detailed instructions and examples are available in the [AWS Rekognition Documentation](https://docs.aws.amazon.com/rekognition/).
 
 ## Screenshots
-![Screenshot 1](https://app.gemoo.com/share/image-annotation/591263420086501376?codeId=P5G9aAbX22QYl&origin=imageurlgenerator&card=591263417523781632)
+![Screenshot 1](https://paste.pics/Q120U)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
